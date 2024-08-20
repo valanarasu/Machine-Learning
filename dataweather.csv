@@ -1,0 +1,9 @@
+Weather,Wind,PlayOutSide
+Sunny,Weak,YES
+Sunny,Strong,NO
+Rainy,Weak,NO
+Cloudy,Weak,YES
+Cloudy,Strong,YES
+Rainy,Strong,YES
+Sunny,Weak,YES
+Cloudy,Weak,YES
